@@ -36,4 +36,4 @@ We follow many of the development practices defined by [Modern Web](http://moder
 
 Our generator sets you up with a component built with [Lit](https://lit.dev/) as base library. We recommend this as a general starting point. `Lit` has a strong community, making it easy to find help and examples. It is actively maintained and creates a good balance between performance, developer experience and feature richness.
 
-Other base libraries excel at other points and could be a great fit for for your project as well. Check the [base libraries](../community/base-libraries.md) page for alternative options.
+Other base libraries excel at other points and could be a great fit for your project as well. Check the [base libraries](../community/base-libraries.md) page for alternative options.
